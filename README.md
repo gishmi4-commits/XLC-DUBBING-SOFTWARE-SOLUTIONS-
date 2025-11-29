@@ -36,7 +36,7 @@ La meta es apoyar la **educación, cultura y entretenimiento**, ofreciendo una h
    ```bash
    git clone https://github.com/gishmi/software-doblaje.git
 
-Visión
+## Visión
 El proyecto nace en Honduras con la misión de abrir puertas a la accesibilidad global.  
 Queremos que cualquier persona, institución o comunidad pueda acceder a contenidos en su idioma, sin barreras económicas ni técnicas.
 `
